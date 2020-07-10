@@ -21,3 +21,8 @@ function beltToggle()
   end
 end
 ```
+
+## Screenshots
+
+<img src="https://i.imgur.com/HrQgidz.png">
+<img src="https://i.imgur.com/Y1pU9Sg.png">
